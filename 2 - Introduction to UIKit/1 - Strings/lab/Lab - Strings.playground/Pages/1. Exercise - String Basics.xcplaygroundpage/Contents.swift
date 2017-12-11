@@ -17,7 +17,15 @@
 /*:
  Write an if-else statement that prints "There's nothing here" if `emptyString` is empty, and "It's not as empty as I thought" otherwise.
  */
-let emptyString = ""
+let favouriteQuote = "My Favourite Quote is \"Long Live the King\""
+print(favouriteQuote)
+
+var emptyString = ""
+if emptyString.isEmpty {
+    print("String is Empty")
+} else {
+    print("String Contains information")
+}
 
 
 //: page 1 of 5  |  [Next: Exercise - Concatenation and Interpolation](@next)

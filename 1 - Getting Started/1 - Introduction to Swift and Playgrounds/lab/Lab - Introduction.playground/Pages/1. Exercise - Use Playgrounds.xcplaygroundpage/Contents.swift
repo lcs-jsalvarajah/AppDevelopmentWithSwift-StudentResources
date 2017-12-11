@@ -10,12 +10,27 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
+let joke = """
+Q: Cheese
+A: More Cheese!
+"""
+print(joke)
 
 
+let hello = """
+Hi everyone
+How is class today?!
+"""
+print(hello)
+
+let hellov2 = " It is traditional to say \"Hello World\""
+print(hellov2)
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+let panda = ("I like pandas, and pandas like me too")
+let chicken = ("If you like pandas too Imma walk all over you")
+print("The lyrics for the chicken song are: \(chicken)")
 
 
 /*:

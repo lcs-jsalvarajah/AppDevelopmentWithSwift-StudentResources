@@ -10,6 +10,11 @@
 /*:
  Use two `print` functions to print two lines to the console. The first line should say "Your step goal for the day is:", and the second line should print the value of `goalSteps` by referencing your constant.
  */
+let firstLines = ("My step goal today is:")
+// Edit line here
+let goalsteos = ("6000")
+func goalSteps = 
+
 
 
 //: [Previous](@previous)  |  page 2 of 10  |  [Next: Exercise - Variables](@next)
