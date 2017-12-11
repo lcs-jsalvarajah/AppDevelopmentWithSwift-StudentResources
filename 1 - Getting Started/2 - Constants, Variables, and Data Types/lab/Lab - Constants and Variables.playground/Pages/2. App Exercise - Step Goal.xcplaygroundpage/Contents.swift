@@ -12,8 +12,12 @@
  */
 let firstLines = ("My step goal today is:")
 // Edit line here
-let goalsteos = ("6000")
-func goalSteps = 
+let goalsteps = ("6000")
+func goalSteps() -> String {
+    if goalsteps > 0 {
+        print("My Step goal is greater than zero")
+    }
+}
 
 
 
